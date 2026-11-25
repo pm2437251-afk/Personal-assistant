@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Jarvis Android</string>
+    <string name="accessibility_desc">Allows Jarvis to open apps, navigate screens, and toggle settings hands-free via offline voice commands.</string>
+</resources>
